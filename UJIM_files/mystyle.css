@@ -1,0 +1,78 @@
+.headercolor{
+    color: yellow;
+    font-family: Roboto;
+}
+.bg{
+    background-color: #040460;
+}
+.nav-link{
+   color: #040460;
+}
+.logo{
+    width: 100px;
+}
+.journal_logo{
+    width: 100%;
+    height: 94px;
+}
+.headertop{
+    padding-top: 1rem;
+}
+.fontbold
+{
+font-weight:bold;
+}
+.textcolor{
+    color: #040460;
+}
+.redcolor{
+    color: brown;
+}
+.col_bg{
+    background-color: #0291f699;
+}
+hr {
+    border: 0;
+    margin: 1.35em auto;
+    max-width: 100%;
+    background-position: 50%;
+    box-sizing: border-box;
+  }
+.fade {
+    height: 1px;
+    color: red;
+    background-image: linear-gradient(
+      90deg,
+      rgba(red, 0),
+      rgba(red, 1) 50%,
+      rgba(red, 0) 100%);
+  }
+  .blue{
+      color: blue;
+  }
+  ul li{
+      font-size: 15px;
+  }
+  .font{
+    font-size: 15px;
+}
+.down{
+    font-family:georgia,garamond,serif;
+    padding:20px;
+    width:100%;
+    background-color:lightblue;
+    height:120px
+}
+
+.docxpdfbtn{
+   width: 100px;
+}
+.callbg{
+    background-color: #f5deb37a;
+}
+.gray{
+    color: gray;
+}
+.green{
+    color: green;
+}
